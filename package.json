@@ -1,6 +1,6 @@
 {
     "name": "@solabreakroomapp/react-native-fast-image",
-    "version": "8.6.5",
+    "version": "1.0.0",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
