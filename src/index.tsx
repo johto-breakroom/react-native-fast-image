@@ -255,7 +255,7 @@ FastImage.clearMemoryCache = () =>
 FastImage.clearDiskCache = () => NativeModules.FastImageView.clearDiskCache()
 
 FastImage.getCachePath = (source: Source) =>
-    NativeModules.FastImageView.getCachePath(source);
+    NativeModules.FastImageView.getCachePath(source)
 
 const styles = StyleSheet.create({
     imageContainer: {
